@@ -15,8 +15,7 @@
 
 ---
 
-
-I am a Frontend Web Developer and I make a application to Fullstack by implementing Firebase fuctionalities. I make software solutions and derive joy in it.
+Javasript makes me Fullstack. React and Node guy.
  
  🔭 My vision is to become a successful Snr Fullstack Engineer in the next few years.**.
  
