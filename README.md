@@ -1,5 +1,5 @@
 ## Hey Emmanuel here 👋
-### co-founder whatido.app
+### Fullstack developer | Frontend | Backend | React JS | Next JS | Reactnative | Nodejs | Express.js | JavaScript | ES6 | TypeScript | MongoDB | Redis | Firebase | Redux | HTML | CSS | Web Sockets
 
 <i>Follow me:</i><br>
 
