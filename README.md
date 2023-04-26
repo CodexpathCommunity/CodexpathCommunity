@@ -1,5 +1,5 @@
 ## Hey Emmanuel here 👋
-### Fullstack developer | Frontend | Backend | React JS | Next JS | Reactnative | Nodejs | Express.js | JavaScript | ES6 | TypeScript | MongoDB | Redis | Firebase | Redux | HTML | CSS | Web Sockets
+### Fullstack developer | Frontend | Backend | Blockchain | React JS | Next JS | Reactnative | Nodejs | Express.js | JavaScript | ES6 | TypeScript | MongoDB | Redis | Firebase | Redux | HTML | CSS | Web Sockets
 
 <i>Follow me:</i><br>
 
