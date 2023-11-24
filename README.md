@@ -12,20 +12,6 @@
 <a href="https://anchor.fm/emmanuel-jacob2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 
-
-
----
-### You can checkout my youtube channel :codexpath.: 
-I love recording my experience through my jorney hoping it will help someone out there build the future.
-[youtube]: https://www.youtube.com/channel/UCWNk7hxPmAg1u251-hTdunA
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-
 [website]: https://divbuilder-740a4.web.app/
 [twitter]: https://twitter.com/codexpath2
 [youtube]: https://www.youtube.com/channel/UCWNk7hxPmAg1u251-hTdunA
