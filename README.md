@@ -1,5 +1,5 @@
 ## Hey Emmanuel here 👋
-### Fullstack developer | Frontend | Backend | Blockchain | React JS | Next JS | Reactnative | Nodejs | Express.js | JavaScript | ES6 | TypeScript | Solidity | MongoDB | Redis | Firebase | Redux | HTML | CSS 
+### The more I know, the more I feel I don't know.
 
 <i>Follow me:</i><br>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/codexpath2)
